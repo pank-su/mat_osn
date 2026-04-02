@@ -20,7 +20,7 @@
       )][#h(1em)][#text(author, size: 1.6em)]
   ],
   date: datetime.today(),
-  abstract: [Кто введёт? Насколько краткий конспект? на чём основан?],
+  abstract: [Мат. основы систем управления],
   table-of-contents: outline(depth: 2),
   external-link-circle: false
 )
